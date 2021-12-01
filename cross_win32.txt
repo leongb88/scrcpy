@@ -11,7 +11,7 @@ pkgconfig = 'i686-w64-mingw32-pkg-config'
 [host_machine]
 system = 'windows'
 cpu_family = 'x86'd
-cpu = 'i686'
+cpu = 'i686'd
 endian = 'little'
 
 [properties]
